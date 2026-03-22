@@ -11,7 +11,7 @@ Before this I have completed below Modules from Microsoft Learn Platform:
 - [x] Introduction to Git
 - [x] Introduction to GitHub
 - [x] Introduction to GitHub's products
-- [x] Configure code scanning on GitHub _(requires GitHub Advanced Security)_
+- [x] Configure code scanning on GitHub _(free for public repositories, but require GitHub Advanced Security for private repositories)_
 - [x] Introduction to GitHub Copilot
 - [x] Code with GitHub Codespaces
 - [x] Manage your work with GitHub Projects
